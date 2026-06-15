@@ -114,7 +114,7 @@ A 4-page interactive Power BI dashboard was developed:
 ## Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](https://github.com/Annozo-data/SmartCorp-Global-Corporate-Performance-Analysis/blob/d455f40c7b2a8ef1bbdeb74ae2275485094971c0/Executive_Summary_Dashboard%20.jpg)
 
 ### Industry Analysis
 ![Industry Analysis](images/industry_analysis.png)
