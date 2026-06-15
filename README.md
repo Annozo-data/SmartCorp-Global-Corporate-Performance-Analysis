@@ -123,7 +123,7 @@ A 4-page interactive Power BI dashboard was developed:
 ![Geographic Analysis](https://github.com/Annozo-data/SmartCorp-Global-Corporate-Performance-Analysis/blob/92ed6d0f87e4a4d36b421dcaa186e58e01a4c52e/Geographic_Dashboard%20.jpg)
 
 ### Investment Analysis
-![Investment Analysis](images/investment_analysis.png)
+![Investment Analysis](https://github.com/Annozo-data/SmartCorp-Global-Corporate-Performance-Analysis/blob/01aa05a9942917037bb40f64af4d9d76c7ff9e01/Investment_Dashboard%20.jpg)
 
 ---
 
