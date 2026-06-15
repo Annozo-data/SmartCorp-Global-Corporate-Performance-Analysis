@@ -111,6 +111,20 @@ A 4-page interactive Power BI dashboard was developed:
 * Top Investment Candidates
 * Valuation Metrics
 
+## Dashboard Screenshots
+
+### Executive Summary
+![Executive Summary](images/executive_summary.png)
+
+### Industry Analysis
+![Industry Analysis](images/industry_analysis.png)
+
+### Geographic Analysis
+![Geographic Analysis](images/geographic_analysis.png)
+
+### Investment Analysis
+![Investment Analysis](images/investment_analysis.png)
+
 ---
 
 ## Key Insights
