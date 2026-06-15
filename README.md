@@ -29,14 +29,14 @@ SmartCorp needed insights into:
 
 * 2,000 companies
 * 8 columns
-## Raw Data Preview
-![Raw Data](
+### Raw Data Preview
+![Raw Data](https://github.com/Annozo-data/SmartCorp-Global-Corporate-Performance-Analysis/blob/5431572d4000716a6d9b09b42a5ce466a87d4564/Raw_data.JPG)
 
 **Final Dataset:**
 
 * 1,998 companies
 * 17 columns (including calculated metrics)
-## Cleaned Data Preview
+### Cleaned Data Preview
 ![Cleaned Data](https://github.com/Annozo-data/SmartCorp-Global-Corporate-Performance-Analysis/blob/4acd349c25b79890b000d86319475b15416ae2ce/cleaned%20data.jpeg)
 
 ---
